@@ -7,7 +7,7 @@
 #wrapper{
     height: 100vh;
     /* background-color: rgba(132, 137, 236, 0.571); */
-    background: linear-gradient( to right, rgb(174, 11, 238) , rgb(77, 27, 227));
+    background: linear-gradient( to right, rgb(174, 123, 72) , rgb(231, 220, 205));
     overflow-x: hidden;
     overflow-y: auto;
 }
