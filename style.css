@@ -50,7 +50,7 @@
 
 .card:hover {
     transform: scale(1.03);
-    filter: drop-shadow(0 0 10px #333);
+    filter: drop-shadow(0 0 10px rgb(33, 30, 30));
     /* box-shadow: 0 0 10px 1px #333; */
     transition: 0.5s;
 } 
